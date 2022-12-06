@@ -145,12 +145,6 @@ const stun = Stun.instance
 const carobnjak = Carobnjak.instanciraj();
 const macevalac = Macevalac.instanciraj();
 
-// carobnjak.uzmiOruzje(magija)
-// macevalac.uzmiOruzje(koplje)
-// macevalac.uzmiOruzje(mac);
-// macevalac.uzmiOruzje(koplje);
-
 carobnjak.uzmiOruzje(magija)
 carobnjak.uzmiOruzje(stun)
 
-// console.log(carobnjak)
